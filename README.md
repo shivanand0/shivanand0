@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shivanand0
 - 👀 I’m interested in Tech🧠💻, Finance📈
-- 🌱 I’m currently learning, well everything related to CS.(as being an cs student so that's obivous😂)
-- 💞️ I’m looking to collaborate on open source, projects.
+- 🌱 I’m currently learning Full Stack Development and Further Blockchain Development
+- 💞️ I’m looking to collaborate on open source projects, Freelance Projects.
 - 📫 How to reach me - mitkar.shivanand@gmail.com ;
 
 <!---
